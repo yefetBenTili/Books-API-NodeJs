@@ -1,0 +1,6 @@
+{
+    "name": "Books app Production mode",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+    }

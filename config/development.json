@@ -1,0 +1,6 @@
+{
+"name": "Books app development mode",
+"mail": {
+    "host": "dev-mail-server"
+}
+}
